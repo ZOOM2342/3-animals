@@ -1,0 +1,28 @@
+.red{
+    background-color: red;
+}
+
+.card-body5{
+    background-color: red;
+}
+
+.card-body2{
+    background-color: green;
+}
+
+.card-body3{
+    background-color: yellow;
+}
+
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(images/background.png) ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.text{
+    text-emphasis-color: red;
+}
